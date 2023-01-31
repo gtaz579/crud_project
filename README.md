@@ -10,6 +10,7 @@ Este proyecto contiene lo minimo necesario para poder realizar un CRUD utilizand
 ## Comandos para ejecutar los contenedores
 
 > docker-compose build
+
 > docker-compose up
 
 
