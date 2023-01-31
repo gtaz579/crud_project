@@ -3,11 +3,11 @@
 Este proyecto contiene lo minimo necesario para poder realizar un CRUD utilizando Python, FastAPI y una BD MySQL, todo esto contenido en imagenes docker.
 
 
-##Premisas
+## Premisas
 - El equipo debe de contener Docker instalado
 
 
-##Comandos para ejecutar los contenedores
+## Comandos para ejecutar los contenedores
 
 > docker-compose build
 > docker-compose up
